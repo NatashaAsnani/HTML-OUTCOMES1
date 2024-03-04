@@ -1,2 +1,2 @@
-# HTML-OUTCOMES1/Task_3.html
+# HTML-OUTCOMES1
 Task2: Overlaying text on image while hovering.
